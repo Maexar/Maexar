@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maexar&label=Profile%20views&color=0e75b6&style=flat" alt="maexar" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maexar" alt="maexar" /></a> </p>
-
 - 🌱 I’m currently learning **C ; C# ; SGBD; UML;**
 
 - 📫 How to reach me **marlon.meireles.profissional@gmail.com**
@@ -22,8 +20,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maexar&" alt="maexar" /></p>
 
-
-
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+<[README (1).md](https://github.com/Maexar/Maexar/files/14779339/README.1.md)
 
