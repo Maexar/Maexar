@@ -20,5 +20,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maexar&" alt="maexar" /></p>
 
-<[README (1).md](https://github.com/Maexar/Maexar/files/14779339/README.1.md)
+
 
