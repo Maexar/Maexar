@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maexar&label=Profile%20views&color=0e75b6&style=flat" alt="maexar" /> </p>
 
-- 🌱 I’m currently learning **C ; C# ; SGBD; UML;**
+- 🌱 I’m currently learning **C ; C# ; SQL; UML;**
 
 - 📫 How to reach me **marlon.meireles.profissional@gmail.com**
 
