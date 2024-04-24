@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Marlon Meireles</h1>
 <h3 align="center">A passionate front and backend developer from Brasil.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Maexar&label=Profile%20views&color=0e75b6&style=flat" alt="maexar" /> </p>
+<p align="left"> <img src="[https://komarev.com/ghpvc/?username=Maexar&label=Profile%20views&color=0e75b6&style=flat" alt="maexar](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=radical)" /> </p>
 
 - 🌱 I’m currently learning **C ; C# ; SQL; UML;**
 
