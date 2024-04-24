@@ -38,8 +38,10 @@
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height="175" align="center" src="https://github-readme-stats.vercel.app/api?username=Maexar&show_icons=true&theme=radical&border_radius=15" />
   </a>
+  <a>
+  </a>
+        
 </p>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maexar&" alt="maexar" /></p>
 
