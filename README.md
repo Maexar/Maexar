@@ -39,9 +39,7 @@
     <img height="175" align="center" src="https://github-readme-stats.vercel.app/api?username=Maexar&show_icons=true&theme=radical&border_radius=15" />
   </a>
 </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=maexar&show_icons=true&locale=en&layout=compact" alt="maexar" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maexar&show_icons=true&locale=en" alt="maexar" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maexar&" alt="maexar" /></p>
 
