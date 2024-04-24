@@ -33,10 +33,10 @@
 </p>
 <p align="center">
   <a href="https://github.com/anuraghazra/convoychat">
-    <img height="175" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Maexar&layout=compact&langs_count=8&card_width=250&theme=radical&border_radius=15" />
+    <img height="160" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Maexar&layout=compact&langs_count=8&card_width=250&theme=radical&border_radius=15" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="175" align="right" src="https://github-readme-stats.vercel.app/api?username=Maexar&show_icons=true&theme=radical&border_radius=15" />
+    <img height="160" align="right" src="https://github-readme-stats.vercel.app/api?username=Maexar&show_icons=true&theme=radical&border_radius=15" />
   </a>
   <a>
   </a>
