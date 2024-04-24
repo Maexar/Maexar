@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Marlon Meireles</h1>
 <h3 align="center">A passionate front and backend developer from Brasil.</h3>
 
-<p align="left"> <img src="[https://komarev.com/ghpvc/?username=Maexar&label=Profile%20views&color=0e75b6&style=flat" alt="maexar](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=radical)" /> </p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Maexar&label=Profile%20views&color=0e75b6&style=flat" alt="maexar" /> </p>
 - 🌱 I’m currently learning **C ; C# ; SQL; UML;**
 
 - 📫 How to reach me **marlon.meireles.profissional@gmail.com**
@@ -31,7 +31,14 @@
         <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> 
             </a> 
 </p>
-
+<p align="center">
+  <a href="https://github.com/anuraghazra/convoychat">
+    <img height="175" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Whiskyrie&layout=compact&langs_count=8&card_width=250&theme=shadow_red&border_radius=15" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="175" align="center" src="https://github-readme-stats.vercel.app/api?username=Whiskyrie&show_icons=true&theme=shadow_red&border_radius=15" />
+  </a>
+</p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=maexar&show_icons=true&locale=en&layout=compact" alt="maexar" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maexar&show_icons=true&locale=en" alt="maexar" /></p>
