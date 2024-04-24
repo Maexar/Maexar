@@ -36,7 +36,7 @@
     <img height="175" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Maexar&layout=compact&langs_count=8&card_width=250&theme=tokyonight&border_radius=15" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="175" align="center" src="https://github-readme-stats.vercel.app/api?username=Maexar&show_icons=true&theme=merko&border_radius=15" />
+    <img height="175" align="center" src="https://github-readme-stats.vercel.app/api?username=Maexar&show_icons=true&theme=gruvbox&border_radius=15" />
   </a>
 </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=maexar&show_icons=true&locale=en&layout=compact" alt="maexar" /></p>
