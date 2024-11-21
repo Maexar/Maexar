@@ -6,17 +6,19 @@
 
 <h1 align="center">Olá, sou Marlon Meireles 👋</h1>
 <p align="center">
-        Estudante Universitário de Ciências da Computação da Universidade Tecnoló
+        Estudante Universitário de Ciências da Computação da Universidade Tecnológica Federal do Paraná
 </p>
-<p align="center"
+
+<!--<p align="center"
  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=marlon.meireles.profissional@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
+-->
 
 ## 🚀 Sobre Mim
 - 💻 Desenvolvedor em constante aprendizado
-- 🌱 Atualmente estudando: C, C#, SQL, UML
+- 🌱 Atualmente estudando: Algoritmos, Hashing, C#, SQL, UML, JavaScript
 - 🎯 Objetivo: Desenvolver soluções tecnológicas eficientes e inovadoras
 
 ## 🛠️ Tecnologias e Ferramentas
