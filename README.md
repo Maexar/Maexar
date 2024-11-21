@@ -1,6 +1,9 @@
+<!--
 <div align="center">
   <img src="seu-banner-personalizado.png" alt="Banner de Marlon Meireles">
 </div>
+-->
+
 <h1 align="center">Olá, sou Marlon Meireles 👋</h1>
 <p align="center">
         Estudante Universitário de Ciências da Computação da Universidade Tecnoló
