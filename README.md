@@ -34,8 +34,7 @@
 
 ## 🏆 Projetos Destacados
 
-### BiblioMob
-**Sistema de Gerenciamento de Biblioteca para dispositivos móveis**
+### BiblioTex
 - Tecnologias: React Native, Expo, JavaScript
 - Repositório: [BiblioMob no GitHub](https://github.com/Maexar/Biblioteca_Mobile)
 - Descrição: Aplicativo móvel desenvolvido para gerenciamento eficiente de bibliotecas
