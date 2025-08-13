@@ -40,7 +40,7 @@
     - Backend: Typescript, Node.js + NestJS, PostgreSQL + TypeORM, JWT Authentication, Docker & Docker Compose, Swagger/OpenAPI
     - Frontend: React Native + Expo, TypeScript, Redux Toolkit
 - Repositório: [Solidarios no GitHub](https://github.com/Maexar/Solidarios)
-- Descrição: : Plataforma em alfa para conectar doadores e beneficiários, com controle de inventário, gestão de usuários e sistema de distribuições
+- Descrição: : Projeto sem fins lucrativos, que visa conectar doadores e beneficiários, com controle de inventário, gestão de usuários e sistema de distribuições
 
 ### BiblioTex
 - Tecnologias: React Native, Expo, JavaScript
