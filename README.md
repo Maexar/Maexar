@@ -34,7 +34,7 @@
 
 ## 🏆 Projetos Destacados
 
-## Solidários
+### Solidários
 **Gerenciador de doações, beneficiários e doadores para a SANEM - Sociedade de Amparo aos Necessitados de Medianeira** 
 - Tecnologias:
     - Backend: Typescript, Node.js + NestJS, PostgreSQL + TypeORM, JWT Authentication, Docker & Docker Compose, Swagger/OpenAPI
