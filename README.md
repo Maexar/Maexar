@@ -34,16 +34,18 @@
 
 ## 🏆 Projetos Destacados
 
+## Solidários
+**Gerenciador de doações, beneficiários e doadores para a SANEM - Sociedade de Amparo aos Necessitados de Medianeira** 
+- Tecnologias:
+    - Backend: Typescript, Node.js + NestJS, PostgreSQL + TypeORM, JWT Authentication, Docker & Docker Compose, Swagger/OpenAPI
+    - Frontend: React Native + Expo, TypeScript, Redux Toolkit
+- Repositório: [Solidarios no GitHub](https://github.com/Maexar/Solidarios)
+- Descrição: : Plataforma em alfa para conectar doadores e beneficiários, com controle de inventário, gestão de usuários e sistema de distribuições
+
 ### BiblioTex
 - Tecnologias: React Native, Expo, JavaScript
 - Repositório: [BiblioMob no GitHub](https://github.com/Maexar/Biblioteca_Mobile)
 - Descrição: Aplicativo móvel desenvolvido para gerenciamento eficiente de bibliotecas
-
-### Agenda de Contatos
-**Projeto Final de Programação Orientada a Objetos**
-- Tecnologias: ASP.NET, C#
-- Repositório: [Agenda de Contatos no GitHub](https://github.com/Maexar/Projeto_Final---Agenda-de-Contatos)
-- Descrição: Aplicação web para gerenciamento de contatos, desenvolvida como projeto final da disciplina de POO
 
 ## 📬 Contato
 - **Email**: marlon.meireles.profissional@gmail.com
