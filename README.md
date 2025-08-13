@@ -18,12 +18,12 @@
 
 ## 🚀 Sobre Mim
 - 💻 Desenvolvedor em constante aprendizado
-- 🌱 Atualmente estudando: Algoritmos, Hashing, C#, SQL, UML, JavaScript
+- 🌱 Atualmente estudando: Python, Ruby, IA, Sistemas Distribuidos e Corporativos
 - 🎯 Objetivo: Desenvolver soluções tecnológicas eficientes e inovadoras
 
 ## 🛠️ Tecnologias e Ferramentas
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,dotnet,html,css,javascript,mysql,photoshop,git" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,dotnet,html,css,javascript,typescript,mysql,photoshop,git" />
 </p>
 
 ## 📊 Minhas Estatísticas no GitHub
