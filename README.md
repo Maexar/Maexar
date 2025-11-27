@@ -23,7 +23,7 @@
 
 ## 🛠️ Tecnologias e Ferramentas
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,dotnet,html,css,javascript,typescript,mysql,photoshop,git" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,dotnet,html,css,javascript,typescript,mysql,photoshop,git,react" />
 </p>
 
 ## 📊 Minhas Estatísticas no GitHub
